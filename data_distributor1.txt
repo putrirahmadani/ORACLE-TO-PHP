@@ -1,0 +1,8 @@
+SQL> desc data_distributor;
+ Name                                      Null?    Type
+ ----------------------------------------- -------- ----------------------------
+ ID_DISTRIBUTOR                                     VARCHAR2(10)
+ NAMA_DISTRIBUTOR                                   VARCHAR2(25)
+ ALAMAT_DISTRIBUTOR                                 VARCHAR2(25)
+
+SQL>

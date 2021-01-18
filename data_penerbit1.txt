@@ -1,0 +1,5 @@
+SQL> desc data_penerbit;
+ Name                                      Null?    Type
+ ----------------------------------------- -------- ----------------------------
+ ID_PENERBIT                                        VARCHAR2(10)
+ NAMA_PENERBIT                                      VARCHAR2(25)

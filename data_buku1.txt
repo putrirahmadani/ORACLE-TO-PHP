@@ -1,0 +1,11 @@
+SQL> desc data_buku;
+ Name                                      Null?    Type
+ ----------------------------------------- -------- ----------------------------
+ ID_BUKU                                   NOT NULL CHAR(10)
+ JUDUL_BUKU                                         VARCHAR2(20)
+ PENGARANG_BUKU                                     VARCHAR2(20)
+ KATEGORI_BUKU                                      VARCHAR2(15)
+ STOK_BUKU                                          VARCHAR2(5)
+ HARGA_BUKU                                         VARCHAR2(15)
+
+SQL>
